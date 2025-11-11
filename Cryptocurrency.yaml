@@ -1,6 +1,11 @@
 payload:
   # 内容：Cryptocurrency
-  # 数量：20条
+  # 数量：25条
+  - DOMAIN-KEYWORD,coinbase
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,okx
+  - DOMAIN-KEYWORD,gate
+  - DOMAIN-KEYWORD,bybit
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-SUFFIX,binance.cloud
