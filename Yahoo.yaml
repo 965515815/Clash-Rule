@@ -1,6 +1,6 @@
 payload:
   # 内容：Yahoo
-  # 数量：25条
+  # 数量：24条
   - DOMAIN-SUFFIX,yahoo-inc.com,Yahoo
   - DOMAIN-SUFFIX,yahoo-net.jp,Yahoo
   - DOMAIN-SUFFIX,yahoo.cm,Yahoo
