@@ -1,0 +1,6 @@
+payload:
+  # 内容：Messenger
+  # 数量：3条
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,msngr.com
