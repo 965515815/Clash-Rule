@@ -1,0 +1,5 @@
+payload:
+  # 内容：Instagram
+  # 数量：25条
+  - DOMAIN-SUFFIX,instagram.com,Instagram
+  - DOMAIN-SUFFIX,cdninstagram.com,Instagram
